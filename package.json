@@ -1,0 +1,28 @@
+{
+  "name": "brsolab-xss",
+  "version": "1.0.0",
+  "description": "html xss filter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafikalid/brsolab-xss.git"
+  },
+  "keywords": [
+    "xss",
+    "html",
+    "xhtml",
+    "css"
+  ],
+  "author": "brsolab.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafikalid/brsolab-xss/issues"
+  },
+  "homepage": "https://github.com/rafikalid/brsolab-xss#readme",
+  "dependencies": {
+    "he": "^1.1.1"
+  }
+}
