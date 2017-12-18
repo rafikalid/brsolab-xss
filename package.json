@@ -2,7 +2,7 @@
   "name": "brsolab-xss",
   "version": "1.0.0",
   "description": "html xss filter",
-  "main": "index.js",
+  "main": "lib/html-xss.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
