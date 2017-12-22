@@ -1,6 +1,6 @@
 {
   "name": "brsolab-xss",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "html xss filter",
   "main": "lib/html-xss.js",
   "scripts": {
