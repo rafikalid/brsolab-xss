@@ -24,5 +24,9 @@
   "homepage": "https://github.com/rafikalid/brsolab-xss#readme",
   "dependencies": {
     "he": "^1.1.1"
+  },
+  "devDependencies": {
+    "mz": "^2.7.0",
+    "request": "^2.83.0"
   }
 }
